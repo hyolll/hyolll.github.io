@@ -1,16 +1,16 @@
 # Configurations
-title:            Jekyll Gitbook
-longtitle:        Jekyll Gitbook
-author:           HE Tao
-email:            sighingnow@gmail.com
+title:            Hyol's Blog
+longtitle:        Hyol's Blog
+author:           HYORYUNG LEE
+email:            leehyo96@naver.com
 description: >
-  Build Jekyll site with the GitBook style.
+  My GitHub Pages powered by GitBook theme
 
 version:          1.0
 gitbook_version:  3.2.3
 
-url:              'https://sighingnow.github.io'
-baseurl:          '/jekyll-gitbook'
+url:              'https://hyolll.github.io'
+baseurl:          ''
 rss:              RSS
 
 # bootstrap: use the remote theme for the site itself
